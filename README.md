@@ -1,6 +1,6 @@
 - 👋 Hola, soy @cinqueles
 - 👀 Me interesa mucho administración de sistemas, sobre todo scripting, redes y ciberseguridad.
-- 🌱 Actualmente estoy aprendiendo sobre docker, kubernetes y alguna que otra nueva tecnología.
+- 🌱 Actualmente estoy aprendiendo sobre docker, kubernetes, arubaOs y alguna que otra nueva tecnología.
 - 📫 Puedes contactar conmigo en i.morilla.orellana@gmail.com
 
 <!---
